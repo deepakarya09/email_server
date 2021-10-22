@@ -1,0 +1,20 @@
+2021-10-22 20:39:35,868 - ERROR  flask_migrate MainThread :- Error: Directory migrations already exists and is not empty
+2021-10-22 20:41:57,635 - ERROR  flask_migrate MainThread :- Error: Directory migrations already exists and is not empty
+2021-10-22 20:43:03,435 - INFO  werkzeug MainThread :-  * Restarting with stat
+2021-10-22 20:43:04,823 - WARNING  werkzeug MainThread :-  * Debugger is active!
+2021-10-22 20:43:04,826 - INFO  werkzeug MainThread :-  * Debugger PIN: 253-552-609
+2021-10-22 20:43:04,839 - INFO  werkzeug Thread-1 :-  * Running on http://127.0.0.1:80/ (Press CTRL+C to quit)
+2021-10-22 20:43:31,970 - INFO  werkzeug Thread-2 :- 127.0.0.1 - - [22/Oct/2021 20:43:31] "[33mGET /api/v1.0/data HTTP/1.1[0m" 404 -
+2021-10-22 20:43:32,260 - INFO  werkzeug Thread-3 :- 127.0.0.1 - - [22/Oct/2021 20:43:32] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-10-22 20:43:44,163 - INFO  werkzeug Thread-4 :- 127.0.0.1 - - [22/Oct/2021 20:43:44] "[37mGET / HTTP/1.1[0m" 200 -
+2021-10-22 20:43:44,825 - INFO  werkzeug Thread-6 :- 127.0.0.1 - - [22/Oct/2021 20:43:44] "[37mGET /swaggerui/swagger-ui.css HTTP/1.1[0m" 200 -
+2021-10-22 20:43:44,826 - INFO  werkzeug Thread-5 :- 127.0.0.1 - - [22/Oct/2021 20:43:44] "[37mGET /swaggerui/droid-sans.css HTTP/1.1[0m" 200 -
+2021-10-22 20:43:44,917 - INFO  werkzeug Thread-8 :- 127.0.0.1 - - [22/Oct/2021 20:43:44] "[37mGET /swaggerui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 200 -
+2021-10-22 20:43:45,036 - INFO  werkzeug Thread-7 :- 127.0.0.1 - - [22/Oct/2021 20:43:45] "[37mGET /swaggerui/swagger-ui-bundle.js HTTP/1.1[0m" 200 -
+2021-10-22 20:43:45,257 - INFO  werkzeug Thread-9 :- 127.0.0.1 - - [22/Oct/2021 20:43:45] "[37mGET /swagger.json HTTP/1.1[0m" 200 -
+2021-10-22 20:43:45,278 - INFO  werkzeug Thread-10 :- 127.0.0.1 - - [22/Oct/2021 20:43:45] "[37mGET /swaggerui/favicon-32x32.png HTTP/1.1[0m" 200 -
+2021-10-22 20:45:21,371 - INFO  werkzeug MainThread :-  * Detected change in 'F:\\opsfuse\\email_server\\app\\main\\services\\user_registration_confirmation_mail.py', reloading
+2021-10-22 20:45:21,477 - INFO  werkzeug MainThread :-  * Restarting with stat
+2021-10-22 20:45:22,996 - WARNING  werkzeug MainThread :-  * Debugger is active!
+2021-10-22 20:45:23,000 - INFO  werkzeug MainThread :-  * Debugger PIN: 253-552-609
+2021-10-22 20:45:23,007 - INFO  werkzeug Thread-1 :-  * Running on http://127.0.0.1:80/ (Press CTRL+C to quit)
